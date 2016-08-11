@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/estevao/Downloads/github_enalta_retrofit-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="/home/estevao/Downloads/github_enalta_retrofit-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.1.1_7d82a1ec848e63dce7d21beaee7bb4acb3246fe9/classes.dex" />
+    </item>
+    <item
+        jar="/home/estevao/Downloads/github_enalta_retrofit-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="/home/estevao/Downloads/github_enalta_retrofit-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.1.1_9dfc2e4a32940345c831c1c3ac0325b06846dbfe/classes.dex" />
+    </item>
+    <item
+        jar="/home/estevao/Downloads/github_enalta_retrofit-master/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="/home/estevao/Downloads/github_enalta_retrofit-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.1.1_b7e7b1efbbeca1c8208e773927a512a533e3e985/classes.dex" />
+    </item>
+    <item
+        jar="/home/estevao/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.4.0/d6a66c7a5f01cf500377bd669507a08cfeba882a/jackson-annotations-2.4.0.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="d6a66c7a5f01cf500377bd669507a08cfeba882a">
+        <dex dex="/home/estevao/Downloads/github_enalta_retrofit-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/jackson-annotations-2.4.0_c1f3d155172f68ce06df2510d42d07d35a2d3b04/classes.dex" />
+    </item>
+    <item
+        jar="/home/estevao/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.0.0/49eb3ad545e7701234e4dd83db8dc1344b577f23/converter-gson-2.0.0.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="49eb3ad545e7701234e4dd83db8dc1344b577f23">
+        <dex dex="/home/estevao/Downloads/github_enalta_retrofit-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/converter-gson-2.0.0_7d46c642f8a22834a7a920e63cbdd9f1041f829a/classes.dex" />
+    </item>
+    <item
+        jar="/home/estevao/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/24.1.1/3af19f153122737b372622fa6c81dd11a1c6b999/support-annotations-24.1.1.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="/home/estevao/Downloads/github_enalta_retrofit-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.1.1_459c94149b5915d659db3b949d66a7ebf306cc35/classes.dex" />
+    </item>
+    <item
+        jar="/home/estevao/Downloads/github_enalta_retrofit-master/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="05125abbc23518029e8227a1a3a8f4dfda364b34">
+        <dex dex="/home/estevao/Downloads/github_enalta_retrofit-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_590b7978a5c434d84e46330d2305d51ff5702bce/classes.dex" />
+    </item>
+    <item
+        jar="/home/estevao/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.3.0/2b802460eea20f8f2ad9c08c74e0f14718e88aa9/okhttp-3.3.0.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="2b802460eea20f8f2ad9c08c74e0f14718e88aa9">
+        <dex dex="/home/estevao/Downloads/github_enalta_retrofit-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.3.0_fa9b55f981a8fe5c253261b54192249d3dac6427/classes.dex" />
+    </item>
+    <item
+        jar="/home/estevao/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.4.2/8e31266a272ad25ac4c089734d93e8d811652c1f/jackson-databind-2.4.2.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="8e31266a272ad25ac4c089734d93e8d811652c1f">
+        <dex dex="/home/estevao/Downloads/github_enalta_retrofit-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/jackson-databind-2.4.2_3d351182b50df8e8ac7a05dc47597515958fce9e/classes.dex" />
+    </item>
+    <item
+        jar="/home/estevao/Downloads/github_enalta_retrofit-master/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="47a874989fc4823bf2c0c2903861d66df987b1dc">
+        <dex dex="/home/estevao/Downloads/github_enalta_retrofit-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_51016edf41242ce760354439f1feb019f8be3b19/classes.dex" />
+    </item>
+    <item
+        jar="/home/estevao/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.4.2/ceb72830d95c512b4b300a38f29febc85bdf6e4b/jackson-core-2.4.2.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="ceb72830d95c512b4b300a38f29febc85bdf6e4b">
+        <dex dex="/home/estevao/Downloads/github_enalta_retrofit-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/jackson-core-2.4.2_42da2cac061ecd25227c16fff4f55f6d9c4d9862/classes.dex" />
+    </item>
+    <item
+        jar="/home/estevao/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/home/estevao/Downloads/github_enalta_retrofit-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/glide-3.7.0_e27e1fb89a7d6a279cf6c2595e5e5a586bcefdb6/classes.dex" />
+    </item>
+    <item
+        jar="/home/estevao/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.1.0/2de7cd8b95b7021b1d597f049bcb422055119f2c/retrofit-2.1.0.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="/home/estevao/Downloads/github_enalta_retrofit-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit-2.1.0_fb6ce40bd11fb52e32d48da05fb0999a11d462b7/classes.dex" />
+    </item>
+    <item
+        jar="/home/estevao/Downloads/github_enalta_retrofit-master/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="787871951412550519b0222aba3c9df4cea49875">
+        <dex dex="/home/estevao/Downloads/github_enalta_retrofit-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.1.1_0101f4727dafb1e7a5123c6cb43d4607e47b95b6/classes.dex" />
+    </item>
+    <item
+        jar="/home/estevao/Downloads/github_enalta_retrofit-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/libs/internal_impl-24.1.1.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="/home/estevao/Downloads/github_enalta_retrofit-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.1.1_92a4aac67dfc6b25f9b4809e97c7d177d85b2339/classes.dex" />
+    </item>
+    <item
+        jar="/home/estevao/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.6.1/b9d63507329a7178e026fc334f87587ee5070ac5/gson-2.6.1.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="b9d63507329a7178e026fc334f87587ee5070ac5">
+        <dex dex="/home/estevao/Downloads/github_enalta_retrofit-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.6.1_bfd1b0d91d25dda1c781c66ef667e5b6334d5011/classes.dex" />
+    </item>
+    <item
+        jar="/home/estevao/Downloads/github_enalta_retrofit-master/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="/home/estevao/Downloads/github_enalta_retrofit-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.1.1_3c126401f7d7bd8ef66c8cb431eb17941b5de9db/classes.dex" />
+    </item>
+    <item
+        jar="/home/estevao/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.8.0/5ea7af56cc7c567ed9856d99efb30740e9b17ff/okio-1.8.0.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="/home/estevao/Downloads/github_enalta_retrofit-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.8.0_b6e28cd838d285e0eacff6ef0e579ebc7448fe19/classes.dex" />
+    </item>
+
+</items>
